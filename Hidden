@@ -1,0 +1,2 @@
+<p hidden>I'm hidden</p>
+<p hidden="hidden">I'm hidden XML syntax style</p>
