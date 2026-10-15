@@ -1,0 +1,6 @@
+<div itemscope itemref="parentname parentfood"></div>
+<div itemscope itemref="childname childfood"></div>
+<span id="parentname"><span itemprop="name">Thomas</span></span> has a daughter
+named<span id="childname"><span itemprop="name">Olivia</span></span>.
+Thomas' favorite food is <span id="parentfood"><span itemprop="food">sushi
+</span></span> and Olivia's is <span id="childfood"><span itemprop="food">French Fries<span>!
