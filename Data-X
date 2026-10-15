@@ -1,0 +1,5 @@
+<p id="p1" data-author="Thomas A. Powell">This is a data-x example</p>
+
+<form>
+<input type="button" value="Show author" onclick="alert(document.getElementById('p1').getAttribute('data-author')); ">
+</form>
