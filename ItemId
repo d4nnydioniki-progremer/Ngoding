@@ -1,0 +1,5 @@
+<div itemscope itemtype="http://ssa.gov/people"
+    itemid="http://ssa.gov/SSN/123456789">
+<span itemprop="firstname">Joe</span>
+<span itemprop="lastname">Smith</span>
+</div>
