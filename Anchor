@@ -1,0 +1,20 @@
+<a 
+    accesskey="key"
+    charset="character code for language of linked resource"
+    class="class name(s)"
+    coords="comma-separated list of numbers"
+    dir="ltr | rtl"
+    herf="URL"
+    herflang="language code"
+    id="unique alphanumeric identifier"
+    lang="language code"
+    name="name of target location"
+    rel="comma-separated list of relationship values"
+    rev="comma-separated list of relationship values"
+    shape="default | circle | poly | rect"
+    style="style information"
+    tabindex="number"
+    target="frame or window name | _blank | _parent | _self | _top"
+    title="advisory text"
+    type="content type of linked data">
+  </a>
