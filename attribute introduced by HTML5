@@ -1,0 +1,19 @@
+<a
+  contentediable="true | false | inherit"
+  contextmenu="id of menu "
+  data-X="user-defined data"
+  draggable="true | false | auto"
+  hidden="hidden"
+  hreflang="language code"
+  itemid="microdata id in URL format"
+  itemprop="microdata value"
+  itemref="space-separated list of IDs that my contain microdata"
+  itemscope="itemscope"
+  itemtype="microdata type in URL format"
+  media="media-type"
+  ping="URL list"
+  rel="comma-separated list of relationship values"
+  spellcheck="true | false"
+  tabindex="number"
+  type="MIMS type of linked data">
+</a>
