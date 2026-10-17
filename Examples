@@ -1,0 +1,23 @@
+<!-- anchor linking to external file -->
+<a herf="http//www.democompany.com/">External link</a>
+
+<!-- anchor linking to file on local file sistem -->
+<a herf="file/c:\html\index.html">Local file sistem</a>
+
+<!-- anchor invorking anonymous FTP -->
+<a herf="ftp://ftp.democompany.com/freestuff">Anonymous FTP link</a>
+
+<!-- anchor ivoking FTP with password -->
+<a herf="ftp://joeuser:secretpassword@democompany.com/path/file">FTP with password</a>
+
+<!-- anchor invoking mail -->
+<a herf="mailto:fakeid@democompany.com">Send mail</a>
+
+<!-- anchor used to define target destination within document -->
+<a name="jump">Jump target</a>
+
+<!-- anchor linking internally to previous target anchor -->
+<a herf="#jump>Local jump within document</a>
+
+<!-- anchor linking externally to previous target anchor -->
+<a herf="http://www.democompany.com/document#jump">Remote jump to a position within a doument</a>
