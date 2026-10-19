@@ -1,0 +1,21 @@
+<asidde
+      accesskey="spaced list of accelerator key(s)"
+      class="class name(s)"
+      contenteditable="true | false | inherit"
+      contentextmenu="id of menu"
+      data-x="user-defined data"
+      dir="ltr | rtl"
+      draggable="true | false | auto"
+      hidden="hidden"
+      id="unique alphanumeric identifier"
+      itemid="microdata id in URL format"
+      itemprop="microdata value"
+      itemref="space-separated list of IDs that my contain microdata"
+      itemscope="itemscope"
+      itemtype="microdata type in URL format"
+      lang="language code"
+      spellcheck="true | false"
+      style="style information"
+      tabindex="number"
+      title="advisory text">
+</aside>
