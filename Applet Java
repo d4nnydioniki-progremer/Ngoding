@@ -1,0 +1,17 @@
+<applet
+      alight="botton | left | middle | right | top"
+      alt="alternative text"
+      archive="coma-separated list of URLs pointing to archive files"
+      class="class name(s)"
+      code="URL of java clas file"
+      codebase="URL for base referencing"
+      height="pixels"
+      hspace="pixels"
+      id="unique alphanumeric identifier"
+      name="unique name for scripting reference"
+      object="serialized representation of applet state"
+      style="style information"
+      title="advisory text"
+      vspace="pixels"
+      widht="pixels">
+</applet>
