@@ -1,0 +1,16 @@
+<area
+      accesskey="character"
+      alt="alternative text"
+      class="class name(s)"
+      coords="comma-separated list of values"
+      dir="ltr | rtl"
+      href="URL"
+      id="unique alphanumeric identifier"
+      lang="language code"
+      nohref="nohref"
+      shape="circle | default | poly | rect"
+      style="style information"
+      tabindex="number"
+      target="frame or window name | _blank |_parent | _self | _top" (transitional or frameset only)
+      title="advisory text">
+</area>
