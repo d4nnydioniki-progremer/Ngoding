@@ -1,0 +1,7 @@
+<bgsound
+      balance="number"
+      id="unique alphanumeric identifier"
+      loop="number"
+      src="URL of sound file"
+      volume="number">
+</bgsound>
