@@ -1,0 +1,5 @@
+<base
+    href="URL"
+    target="frame or window name | _blank | _parent | _self | _top"
+            (transitional only)>
+</base>
