@@ -1,0 +1,14 @@
+<body
+      alink="color name | #RRGGBB"
+      background="URL of background image"
+      bgcolor="color name | #RRGGBB"
+      class="class name(s)"
+      dir="ltr | rtl"
+      id="unique alphanumeric identifier"
+      lang="language code"
+      link="color name | #RRGGBB"
+      style="style information"
+      text="color name | #RRGGBB"
+      title="advisory text"
+      vlink="color name | #RRGGBB">
+</body>
