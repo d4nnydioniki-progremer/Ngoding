@@ -1,0 +1,6 @@
+<basefont
+      color="color name | #RRGGBB"
+      face="font name(s)"
+      id="unique alphanumeric identifier"
+      size="1-7 | +/-int">
+</basefont>
