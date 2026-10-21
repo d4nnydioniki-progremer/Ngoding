@@ -1,0 +1,14 @@
+<colgroup
+      align="center | char | justify | left | right"
+      char="character"
+      charoff="number"
+      class="class name(s)"
+      dir="ltr | rtl"
+      id="unique alphanumeric identifier"
+      lang="language code"
+      span="number"
+      style="style information"
+      title="advisory text"
+      valign="baseline | bottom | middle | top"
+      width="column width specification">
+</colgroup>
