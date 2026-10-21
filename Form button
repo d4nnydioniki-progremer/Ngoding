@@ -1,0 +1,14 @@
+<button
+      accesskey="key"
+      class="class name(s)"
+      dir="ltr | rtl"
+      disabled="disabled"
+      id="unique alphanumeric identifier"
+      lang="language code"
+      name="button name"
+      style="style information"
+      tabindex="number"
+      title="advisory text"
+      type="button | reset | submit"
+      value="button value">
+</button>
