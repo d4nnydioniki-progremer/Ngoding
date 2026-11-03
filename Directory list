@@ -1,0 +1,9 @@
+<dir
+      class="class name(s)"
+      compact="compact"
+      dir="ltr | rtl"
+      id="unique alphanumeric identifier"
+      lang="language code"
+      style="style information"
+      title="advisory text">
+</dir>
