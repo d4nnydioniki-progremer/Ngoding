@@ -1,0 +1,7 @@
+<fieldset>
+<legend>costumer Identification</legend>
+<br>
+<lable>Costumer Name:
+<input type="text" id="CustName" size="25">
+</label>
+</fieldset>
