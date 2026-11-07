@@ -1,0 +1,11 @@
+<font
+    class="class name(s)"
+    color="color name | #RRGGBB"
+    dir="ltr | rtl"
+    face="font name"
+    id="unique alphanumeric identifier"
+    lang="language code"
+    size="1 to 7 | +1 to +6 | -1 to -6"
+    style="style information"
+    title="advisory text">
+</font>
