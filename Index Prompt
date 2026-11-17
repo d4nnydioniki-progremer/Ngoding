@@ -1,0 +1,6 @@
+<isindex action="cgi-bin/search.pl" prompt="Enter search terms">
+
+<base href="cgi-bin/search"> 
+<isindex prompt="Enter search terms">
+
+<isindex href="cgi-bin/search" prompt="Keywords:">
