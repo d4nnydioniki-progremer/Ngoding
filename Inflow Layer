@@ -1,0 +1,5 @@
+<p>Content comes before.</p> 
+<ilayer name="background" bgcolor="green"> 
+  <p>Layered information goes here.</p> 
+</ilayer> 
+<p>Content comes after.</p>
