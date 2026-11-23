@@ -1,0 +1,15 @@
+<menu type="menubar"> 
+ <command label="Add" type="Command" icon="plus.png"> 
+ <command label="Edit" type="Command" default> 
+ <command label="Delete" type="Command" disabled> 
+</menu>
+<menu type="context" label="Actions"> 
+  <menu type="context" label="New"> 
+       <command label="Document" type="Command" default> 
+       <command label="Link" type="Command"> 
+       <command label="Section" type="Command"> 
+  </menu> 
+  <hr> 
+  <command label="Sort Ascending" type="radio" radiogroup="sort"> 
+  <command label="Sort Descending" type="radio" radiogroup="sort"> 
+</menu>
