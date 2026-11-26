@@ -1,0 +1,4 @@
+<p>Progress: <progress id="prog1" max="100.00" value="33.1">33.1</
+progress>%</p> 
+<!-- JavaScript would be used to change the value of this element 
+dynamically -->
