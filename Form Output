@@ -1,0 +1,8 @@
+<form action="#" method="get" id="testform"> 
+<p><input type="date" id="year"  
+    oninput="year.value = valueAsDate.getYear()"> 
+<p>HTML5 released in the year  
+<output for="year">&nbsp;</output></p> 
+</form>
+
+<output form="testform" for="year"> </output>
