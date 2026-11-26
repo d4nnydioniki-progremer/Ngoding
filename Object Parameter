@@ -1,0 +1,14 @@
+<applet code="plot.class"> 
+   <param name="min" value="5"> 
+   <param name="max" value="30"> 
+   <param name="ticks" value=".5"> 
+   <param name="line-style" value="dotted"> 
+</applet>
+
+<!-- XHTML style here --> 
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" 
+        codebase="swflash.cab#version=2,0,0,0" 
+        height="100" width="100">
+   <param id="param1" name="Movie" value="SplashLogo.swf" /> 
+   <param id="param2" name="Play" value="True" /> 
+</object>
