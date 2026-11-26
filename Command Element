@@ -1,0 +1,13 @@
+<menu type="command" label="Main Menu"> 
+  <command type="command" label="Add" icon="add.png"> 
+  <command type="command" label="Edit" icon="edit.png"> 
+  <command type="command" label="Delete" icon="delete.png"> 
+  <hr> 
+  <menu type="command" label="Skin" id="skinMenu"> 
+     <command type="radio" radiogroup="skin" label="Classic"> 
+     <command type="radio" radiogroup="skin" label="Modern" checked> 
+     <command type="radio" radiogroup="skin" label="Neo"> 
+  </menu> 
+  <hr> 
+  <command type="checkbox" label="Secure Mode"> 
+</menu>
