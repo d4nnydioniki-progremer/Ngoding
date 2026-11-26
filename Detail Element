@@ -1,0 +1,5 @@
+<details onclick="this.open='open'"> 
+ <dt>Help?</dt> 
+ <dd>This could give you help with HTML5 but we need more  
+    implementations to prove how things will work.</dd> 
+</details>
